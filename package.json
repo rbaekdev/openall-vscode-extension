@@ -3,6 +3,7 @@
   "displayName": "Open All Files",
   "description": "Opens all files in a folder in separate editor splits",
   "version": "0.0.1",
+  "publisher": "rbaekdev",
   "repository": {
     "type": "git",
     "url": "https://github.com/rbaekdev/openall-vscode-extension"
