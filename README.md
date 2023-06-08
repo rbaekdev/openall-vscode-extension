@@ -25,6 +25,6 @@ Initial release for internal use, but public
 
 ## Todos
 - Read a config file for 
- - folders to ignore
- - file types to ignore opening
+  - folders to ignore when searching
+  - file types to ignore when opening
 - If cancel save early return (do not close and open files)
