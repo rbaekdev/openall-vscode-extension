@@ -1,6 +1,6 @@
 # Open All Files
 
-Prompts save and closes open files, then opens all the files from the selected folder in split editor screens
+Prompts save when necessary and closes open files, then opens all the files from the selected folder in split editor screens
 
 ![Open All Files Usage](https://vicarious-app.s3.amazonaws.com/openallfiles.gif)
 
