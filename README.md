@@ -21,3 +21,10 @@ Open All Files - in -> ../Button
 ### 1.0.0
 
 Initial release for internal use, but public
+
+
+## Todos
+- Read a config file for 
+ - folders to ignore
+ - file types to ignore opening
+- If cancel save early return (do not close and open files)
